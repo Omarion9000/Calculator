@@ -8,6 +8,4 @@ Before you begin, ensure you have the following installed on your machine:
 - JDK 21 or later
 - Maven 3.6.3 or later
 
-## Project Structure
-The project has the following structure:
 
